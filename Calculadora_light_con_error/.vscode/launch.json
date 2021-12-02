@@ -1,0 +1,15 @@
+{
+    // Use IntelliSense para saber los atributos posibles.
+    // Mantenga el puntero para ver las descripciones de los existentes atributos.
+    // Para más información, visite: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "pwa-chrome",
+            "request": "launch",
+            "name": "get-started.html",
+            "url": "C:\\Users\\Aquamantop\\Desktop\\Programacion\\Testing 1\\UnitTest\\Calculadora_light_con_error\\get-started.html",
+            "webRoot": "${workspaceFolder}"
+        }
+    ]
+}
