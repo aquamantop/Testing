@@ -4,7 +4,7 @@
   "description": "",
   "main": "funcionalidad.js",
   "scripts": {
-    "test": "jest",
+    "test": "jest --env=jsdom",
     "test:coverage": "jest --coverage"
   },
   "jest":{ 
@@ -13,6 +13,6 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "jest": "^27.3.1"
+    "jest": "^27.4.3"
   }
 }

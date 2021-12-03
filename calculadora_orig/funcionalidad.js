@@ -114,3 +114,5 @@ function resolver(){
   resetear();
   resultado.textContent = res;
 }
+
+module.exports = { init, limpiar, resetear, resolver };
